@@ -119,3 +119,9 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <h3 align="left">My Github States:</h3> <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhantParthkumarA&layout=compact&hide=php)](https://github.com/KhantParthkumarA/github-readme-stats)
+
+<div align="left" style="margin: 40px 0">
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=KhantParthkumarA&color=469d2b">
+    </a>
+</div>
