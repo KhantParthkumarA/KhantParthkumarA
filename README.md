@@ -25,10 +25,7 @@
 </p>
 <br />
 
----
-
-### Languages and Tools:
-
+## Languages and Tools:
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
@@ -103,21 +100,14 @@
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
----
-
-<a href="https://github-readme-stats-sabesansathananthan.vercel.app/api?username=KhantParthkumarA&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KhantParthkumarA&show_icons=true&locale=en" /></a>
-
-
----
-
-<h3 align="left">My Github States:</h3> <br/>
+## My Github States:
 <div>
 <a href="https://github.com/KhantParthkumarA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhantParthkumarA&show_icons=true&theme=chartreuse-light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhantParthkumarA&layout=compact&langs_count=7&theme=chartreuse-light"/>
 </div>
 
+---
 <div align="left" style="margin: 40px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=KhantParthkumarA&color=469d2b">
