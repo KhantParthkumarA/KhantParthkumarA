@@ -14,7 +14,6 @@
 
 ``Checkout my youtube channel at`` - [khant parth](https://www.youtube.com/channel/UCg6qRGyr4WrRkunZzi2UdXg)
 
-
 ## Connect with me:
 <p align="left">
 <a href="https://parthkumar.w3spaces.com/"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="KhantParthkumar" height="30" width="40" /></a>
@@ -106,9 +105,6 @@
 
 ---
 
-
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
-
 <a href="https://github-readme-stats-sabesansathananthan.vercel.app/api?username=KhantParthkumarA&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KhantParthkumarA&show_icons=true&locale=en" /></a>
 
@@ -116,8 +112,11 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 ---
 
 <h3 align="left">My Github States:</h3> <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhantParthkumarA&layout=compact&hide=php)](https://github.com/KhantParthkumarA/github-readme-stats)
+<div>
+<a href="https://github.com/KhantParthkumarA">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhantParthkumarA&show_icons=true&theme=chartreuse-light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhantParthkumarA&layout=compact&langs_count=7&theme=chartreuse-light"/>
+</div>
 
 <div align="left" style="margin: 40px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
