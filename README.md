@@ -4,6 +4,7 @@
 
 
 ``Here are some ideas to get you started:``
+- 📌 Focusing on inputs rather than outcomes
 - 🔭 I’m currently working on Node.js, React.js as a MERN Stack Developer
 - 🌱 I’m currently learning Cloude Computing, Machine Learning, Algorithm Desining, Distributed Operating System, Data Structure
 - 👯 I’m looking to collaborate on Node.js, Typescript, Javascript
