@@ -17,12 +17,12 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://parthkumar.w3spaces.com/"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="KhantParthkumar" height="30" width="40" /></a>
-<a href="https://twitter.com/KhantParthkumar/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KhantParthkumar" height="30" width="40" /></a>
-<a href="https://facebook.com/parth4698khant/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" alt="parth4698khant" height="30" width="40" /></a>
-<a href="https://instagram.com/parthkumar_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parthkumar_a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parthkumar-khant-8765b5130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehul-kothari-765868126" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17006201/parthkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17006201/parthkumar" height="30" width="40" /></a>
+<a href="https://parthkumar.w3spaces.com/"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="KhantParthkumar" height="30" width="40" /></a><span>
+<a href="https://twitter.com/KhantParthkumar/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KhantParthkumar" height="30" width="40" /></a></span><span>
+<a href="https://facebook.com/parth4698khant/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" alt="parth4698khant" height="30" width="40" /></a></span><span>
+<a href="https://instagram.com/parthkumar_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parthkumar_a" height="30" width="40" /></a></span><span>
+<a href="https://linkedin.com/in/parthkumar-khant-8765b5130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehul-kothari-765868126" height="30" width="40" /></a></span><span>
+<a href="https://stackoverflow.com/users/17006201/parthkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17006201/parthkumar" height="30" width="40" /></a></span>
 </p>
 <br />
 
